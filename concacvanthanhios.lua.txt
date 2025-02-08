@@ -1,16 +1,16 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChanVanThanhIOS/refs/heads/main/uimain.txt")))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/KieuTungLam/OniiChanKieuTungLam/refs/heads/main/uimain.txt")))()
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Văn Thành IOS",
-         Animation = "Script Tổng Hợp Ver1"
+         Title = "KieuTungLam",
+         Animation = "Script Rac"
          },
         Key = {
         KeySystem = false,
-        Title = "Văn ThànHh IOS / Scrit Tổng Hợp",
+        Title = "KieuTungLam / Scrit Rac",
         Description = "",
         KeyLink = "",
-        Keys = {"VanThanhIOS"},
+        Keys = {"KieuTungLam"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",
